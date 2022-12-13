@@ -1,0 +1,45 @@
+#whyAU{
+    height: 400px;
+    width: 100%;
+    background-image: url('whyau.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#whyauinside h1{
+    text-align: center;
+}
+#whyauinside{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+#whyauboxes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.whybox{
+    text-align: center;
+    height: 100px;
+    width: 250px;
+    border: 2px solid white;
+    margin: 20px 20px;
+    background-color: #e0d4e685;
+    opacity: 2.5;
+}
+
+.whybox p b{
+    font-size: 28px;
+    display: block;
+}
+
+#whyauinside h1{
+    font-weight: 500;
+    font-size: 44px;
+}
+
+

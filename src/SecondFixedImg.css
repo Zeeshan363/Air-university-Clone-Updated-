@@ -1,0 +1,43 @@
+#mainDivSecondFixImg{
+    height: 400px;
+    width: 100%;
+    background-image: url("secondFixedImg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#insideDivSFI{
+    margin-right:  13.5%;
+    margin-left: 13.5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.workDiv{
+    background-color: #e0d4e685;
+    height: 90px ;
+    width: 320px;
+    margin: 20px 0px;
+    opacity: 2.5;
+    padding-left: 30px;
+}
+
+.workDiv span b{
+    font-size:28px;
+    font-weight: 600;
+}
+
+#insideDivSFI button{
+    background-color: #002147;
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 5px 5px;
+    font-size: 16px;
+}

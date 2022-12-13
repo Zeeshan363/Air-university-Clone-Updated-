@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=PT+Serif&display=swap');
+
+#firstDiv{
+    margin-right: 13.5%;
+    margin-left: 13.5%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.portion{
+    width: 24%;
+}
+
+#divEnding{
+    background-color: #002147;
+    color: #9AABB0; 
+    padding-bottom: 15px;
+    font-family: 'PT Serif', serif;
+}
+
+h3{
+    color: white;
+}
+
+.para{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#location div{
+    width: 50%;
+}
+
+#location .i{
+    padding: 0px -20px;
+}
+
+#location{
+    padding-bottom: 10px;
+}
+
+#secondDiv{
+    margin-right: 13.5%;
+    margin-left: 13.5%;
+    color: white; 
+    margin-bottom: 40px;
+}
+
+#copy{
+    text-align: center;
+}
+
+#niche{
+    margin-top: -15px;
+}
+
+#uper{
+    padding-top: 15px;
+}
+
