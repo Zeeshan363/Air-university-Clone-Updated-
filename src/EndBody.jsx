@@ -5,7 +5,7 @@ const EndBody = () => {
   return (
     <>
       <div id="endBody">
-        <h1>AU CLUBS & SOCIETIES...</h1>
+        <h1>AU CLUBS & SOCIETIES</h1>
       </div>
     </>
   );
